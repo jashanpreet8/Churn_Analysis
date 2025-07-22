@@ -30,19 +30,20 @@ This project is an end-to-end **Customer Churn Analysis** solution built using *
 
 ![Prediction Dashboard](Images/prediction_dashboard.png)
 
-## Project Structure
-customer-churn-analysis/
-├── README.md
-├── PowerBI/
-│   └── Churn_Analysis.pbix
-├── Python_Model/
-│   └── churn_prediction_model.txt
-├── SQL/
-│   └── churn_etl_queries.txt
-├── Data/
+## Project Structure  
+```csharp
+Churn_Analysis/  
+├── README.md  
+├── PowerBI/  
+│   └── Churn_Analysis.pbix  
+├── Python_Model/  
+│   └── churn_prediction_model.txt  
+├── SQL/  
+│   └── churn_etl_queries.txt  
+├── Data/  
 │   └── Customers_Data.xlsx
-|   └── Predictions_Data.xlsx
-└── Images/
-    └── summary_dashboard.png
+|   └── Predictions_Data.xlsx  
+└── Images/  
+    └── summary_dashboard.png  
     └── prediction_dashboard.png
-
+```
